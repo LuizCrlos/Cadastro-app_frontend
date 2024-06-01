@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL ="https://todo-app-react-frontend-81y4.onrender.com"; 
+const baseURL ="https://cadastro-app-frontendd.onrender.com"; 
 //"https://todo-app-express-backend-rtbt.onrender.com";
 
 const getAllToDo = (setToDo) => {
